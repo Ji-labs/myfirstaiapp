@@ -1,4 +1,4 @@
-%pip install langchain
+!pip install langchain
 !pip install langchain_google_genai
 !pip install streamlit
 from langchain_google_genai import ChatGoogleGenerativeAI
